@@ -6,14 +6,19 @@
 }
 
 h3{
-    color:gray
-}
-h3{
+    color:gray;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 h4{
-    color:#7DB9BF
+    color:#7DB9BF;
 }
 #prett{
-    color: #FCBDDE
+    color: #FCBDDE;
+}
+#luv{
+    color: #DD6A8D;
+}
+
+img{
+    width: 500px;
 }
