@@ -54,6 +54,23 @@ img{
 
 #wature{
     color:cadetblue;
-    font-size: 100px;
+    font-size: 150px;
     font-family: 'WindSong', cursive;
+    text-align: center;
+
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.item {
+    aspect-ratio: 1 / 1; 
+    display: flex;
+    overflow: hidden; 
+}
+
+.item img {
+    object-fit: cover;
 }
