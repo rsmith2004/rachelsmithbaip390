@@ -5,6 +5,12 @@
     font-family: cursive;
 }
 
+button{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial', 'sans-serif';
+    cursor: pointer;
+}
+
+
 h3{
     color:gray;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -21,4 +27,33 @@ h4{
 
 img{
     width: 500px;
+}
+
+#rain_music{
+    display: block;
+    background-color: #7DB9BF;
+    height: 35px;
+    border-radius: 25px;
+}
+
+#blue_please{
+    color:#7DB9BF;
+}
+
+.windsong-regular {
+    font-family: "WindSong", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .windsong-medium {
+    font-family: "WindSong", serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+
+#wature{
+    color:cadetblue;
+    font-size: 100px;
+    font-family: 'WindSong', cursive;
 }
